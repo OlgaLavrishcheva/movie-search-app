@@ -20,5 +20,4 @@ inputSearch.addEventListener('keyup', (e) => {
         }
         searchLast = searchString;
     }, 1000);
-    // console.log(e);
 });
